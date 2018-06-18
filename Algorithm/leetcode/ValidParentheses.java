@@ -1,4 +1,4 @@
-package com.rockzhai.leetcode;
+package leetcode;
 
 import java.util.Stack;
 

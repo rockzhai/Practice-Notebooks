@@ -1,4 +1,4 @@
-package com.rockzhai.leetcode;
+package leetcode;
 
 public class RomantoInteger {
     /**
